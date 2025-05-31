@@ -45,6 +45,15 @@ Date and time to schedule the message (YYYY-MM-DD and HH:MM in 24-hour format)
 The script will wait and send the message at the scheduled time.
 
 
+## Screenshots
+
+### 1. VS Code Input/Output
+![VS Code Screenshot](screenshots/vscode_output.png)
+
+### 2. WhatsApp Message (via Twilio)
+![WhatsApp Screenshot](screenshots/whatsapp_message.png)
+
+
 
 Author
 Shiwaniraj203
